@@ -7,8 +7,5 @@
 ## Проекты
 - **BORODA Barbershop** — сайт барбершопа с онлайн-записью: выбор услуги, мастера, дня и времени. [Открыть демо](https://26mate.github.io/barbershop.html) · [Попробовать запись](https://26mate.github.io/barbershop.html#booking)
 
-## Стек
-HTML, CSS, JavaScript · адаптивная вёрстка под телефон · GitHub Pages
-
 ## Контакты
 Telegram: @ivnt12 · Email: krussivan14@gmail.com
