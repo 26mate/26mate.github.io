@@ -2,10 +2,10 @@
 
 Делаю сайты для салонов красоты и барбершопов: клиенты записываются сами, 24/7, без звонков и переписок.
 
-🌐 **Портфолио:** https://26mate.github.io
+🌐 **Портфолио:** https://ivansites.github.io
 
 ## Проекты
-- **BORODA Barbershop** — сайт барбершопа с онлайн-записью: выбор услуги, мастера, дня и времени. [Открыть демо](https://26mate.github.io/barbershop.html) 
+- **BORODA Barbershop** — сайт барбершопа с онлайн-записью: выбор услуги, мастера, дня и времени. [Открыть демо](https://ivansites.github.io/barbershop.html) 
 
 ## Контакты
 Telegram: @ivnt12 · Email: krussivan14@gmail.com
